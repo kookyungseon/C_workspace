@@ -240,6 +240,20 @@ else{
 }
 
 -switch문
+		switch(변수명){
+		case 값1;
+				실행할 문장;
+		case 값1;
+				실행할 문장;
+		case 값1;
+				실행할 문장;
+		case 값1;
+				실행할 문장;
+		
+		....
+		default;
+				실행할 문장;
+		}	
 
 
 
